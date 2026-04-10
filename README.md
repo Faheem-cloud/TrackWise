@@ -30,7 +30,7 @@ This project demonstrates core full-stack concepts including frontend design, ba
 ### Backend
 
 * Node.js
-* Express.js
+* db.js
 
 ### Database
 
